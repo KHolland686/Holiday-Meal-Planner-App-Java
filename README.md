@@ -10,10 +10,8 @@
 4. Run the app. It will ask you to enter your database credentials during execution.
 
 ## Project Structure
-- `src/`: Contains the source code for the holiday meal planner app.
 - `RUN ME FIRST.sql`: SQL file for initializing the database.
 - `RUN ME SECOND.sql`: SQL file containing stored procedures.
-
 - **src**: Contains the source code for the Holiday Meal Planner application.
   - `HolidayMealPlanner.java`: Presentation layer for the app. Run this 
   - `MenuManager.java`: Business Logic Layer (BLL) responsible for managing the menu.
